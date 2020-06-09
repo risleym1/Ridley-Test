@@ -1,2 +1,2 @@
-<b>Test<b/>
+<b>Test</b>
  Test
