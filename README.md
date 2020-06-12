@@ -50,12 +50,17 @@ _This is how you Italian-size text_
 
 \`This is used when sharing code or speciying certain columns or data types\`
 
+When sharing longer code chunks like:
 ```
 some_list = [1,2,3]
 
 for x in some_list:
     print(f'Looped {x} times')
 ```
+\`\`\`
+
+your_code_here
+`\`\`\
 
 ---
 
