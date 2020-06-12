@@ -120,3 +120,17 @@ your_code_here
 \| Mary Jo \| 150 \|<br>
 
 ---
+
+## Linking
+
+[Link you want to send people to](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+
+\[Link you want to send people to](https:your_URL_Here)
+
+---
+
+## Putting in Pictures
+
+![text_to_describe](https://cdn.ramseysolutions.net/media/3_way_universal/main_homepage/images/2015/dr-logo-name.svg)
+
+\!\[text_to_describe](https:your_URL_Here.png)
