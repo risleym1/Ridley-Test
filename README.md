@@ -95,9 +95,10 @@ your_code_here
 - [x]  use Markdown
 - [ ] Complete all the tasks 
 
-\ - \[x] write a list<br>
-\ - \[x]  use Markdown<br>
-\ - \[ ] Complete all the tasks <br>
+\- \[x] write a list<br>
+\- \[x]  use Markdown<br>
+\- \[ ] Complete all the tasks <br>
+
 ---
 
 ## LineBreaks
@@ -106,3 +107,16 @@ your_code_here
 
 ---
 
+## Creating Tables
+
+| Name | Revenue |
+| ---- | ------- |
+| John Smith | 125 |
+| Mary Jo | 150 |
+
+\| Name \| Revenue \|<br>
+\| \-\-\-\- \| \-\-\-\-\-\-\- \|<br>
+\| John Smith \| 125 \|<br>
+\| Mary Jo \| 150 \|<br>
+
+---
