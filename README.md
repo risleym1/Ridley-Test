@@ -22,12 +22,12 @@
 # This is how you do HUGE TITLES<a name="huge">
 \# This is how you do HUGE TITLES (notice space between # and next word)
 
----
+
 
 ## This is how you do LARGE TITLES<a name="large">
 \## This is how you do LARGE titles
 
----
+
 
 ### This is how you do BIG TITLES<a name="big">
 \### This is how you do BIG titles
@@ -43,20 +43,17 @@
     
 \*\*This is how you do bold, regular text another way\*\*  
 
----
 
 ## Italics <a name="italics">
 _This is how you Italian-size text_
 
 \_This is how you Italian-size text\_
 
----
 
 **_You can combine italicize and bold like this_**
 
 \*\*\_You can combine italicize and bold like this\_\*\*
 
----
 
 ## Strikethrough<a name="strike">
 ~~This is how you strike out text~~
@@ -77,6 +74,7 @@ _This is how you Italian-size text_
 `This is used when speciying certain columns or data types or for quick one liners`
 
 \`This is used when sharing code or speciying certain columns or data types\`
+
 
 When sharing longer code chunks like:
 ```python
