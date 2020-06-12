@@ -20,7 +20,7 @@
 
 **This is how you do bold, regular text another way**
     
-\*\*This is how you do bold, regular text, TITLES, yet another way\*\*  
+\*\*This is how you do bold, regular text another way\*\*  
 
 ---
 
