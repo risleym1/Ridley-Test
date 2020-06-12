@@ -77,3 +77,11 @@ _This is how you Italian-size text_
 \-\-\- (been using it throughout this document)
 
 ---
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
