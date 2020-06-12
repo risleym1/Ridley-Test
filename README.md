@@ -95,9 +95,9 @@ your_code_here
 - [x]  use Markdown
 - [ ] Complete all the tasks 
 
-\- [x] write a list<br>
-\- [x]  use Markdown<br>
-\- [ ] Complete all the tasks <br>
+\ - \[x] write a list<br>
+\ - \[x]  use Markdown<br>
+\ - \[ ] Complete all the tasks <br>
 ---
 
 ## LineBreaks
