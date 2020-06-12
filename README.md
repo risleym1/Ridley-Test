@@ -38,7 +38,7 @@ _This is how you Italian-size text_
 ---
 
 ## Strikethrough
-~~This is how you strike out text ~~
+~~This is how you strike out text~~
 
 \~\~This is how you strike out text \~\~
 
@@ -91,11 +91,13 @@ your_code_here
 3\. Profit.<br>
 
 ### Tasks Lists
-1. [x] do thing
-2. [ ]  do other thing
-- [x] done 
+- [x] write a list
+- [x]  use Markdown
+- [ ] Complete all the tasks 
 
-
+\- [x] write a list<br>
+\- [x]  use Markdown<br>
+\- [ ] Complete all the tasks <br>
 ---
 
 ## LineBreaks
