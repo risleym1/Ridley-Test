@@ -31,9 +31,9 @@ _This is how you Italian-size text_
 
 ---
 
-**_You can Combine italisize and bold like this_**
+**_You can combine italicize and bold like this_**
 
-\*\*You can Combine italisize and bold like this\*\*
+\*\*You can combine italicize and bold like this\*\*
 
 ---
 
