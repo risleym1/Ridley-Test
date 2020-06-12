@@ -45,10 +45,17 @@ _This is how you Italian-size text_
 
 ---
 
-## Code Box
-`This is used when sharing code or speciying certain columns or data types`
+## Code Boxes
+`This is used when speciying certain columns or data types or for quick one liners`
 
 \`This is used when sharing code or speciying certain columns or data types\`
+
+```
+some_list = [1,2,3]
+
+for x in some_list:
+    print(f'Looped {x} times')
+```
 
 ---
 
@@ -78,10 +85,3 @@ _This is how you Italian-size text_
 
 ---
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
