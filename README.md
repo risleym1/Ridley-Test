@@ -78,7 +78,7 @@ _This is how you Italian-size text_
 
 ---
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
