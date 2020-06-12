@@ -37,6 +37,13 @@ _This is how you Italian-size text_
 
 ---
 
+## Strikethrough
+~~This is how you strike out text ~~
+
+\~\~This is how you strike out text \~\~
+
+---
+
 ## BlockQuotes
 
 >If someone said something important or you just want to be fancy, blockquoutes can be used this way
@@ -83,6 +90,11 @@ your_code_here
 2\. ???<br>
 3\. Profit.<br>
 
+### Tasks Lists
+1. [x] do thing
+2. [ ]  do other thing
+- [x] done 
+
 
 ---
 
@@ -92,5 +104,3 @@ your_code_here
 
 ---
 
-what is tableau?
-: a datasource
