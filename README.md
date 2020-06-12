@@ -33,7 +33,7 @@ _This is how you Italian-size text_
 
 **_You can combine italicize and bold like this_**
 
-\*\*You can combine italicize and bold like this\*\*
+\*\*\_You can combine italicize and bold like this\_\*\*
 
 ---
 
