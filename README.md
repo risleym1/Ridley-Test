@@ -101,7 +101,7 @@ your_same_language_code_here
 \- Important Fact<br> <!--: # (for those clicking in the text box The "br" is here to make it look pretty without Markdown. Side note, this is how you comment Markdown. But you probably shouldn't be commenting markdown...)-->
 \- Also Important Fact
 
-### Numbered List (<a name="numbered">)
+### Numbered List<a name="numbered">
 1. Make Markdown Training
 2. ???
 3. Profit.
